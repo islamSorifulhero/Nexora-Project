@@ -1,3 +1,5 @@
+# Live-Link: https://nexora-project-three.vercel.app
+
 # Nexora — Digital Studio Website
 
 A full React website built with Vite, Tailwind CSS, and Framer Motion, inspired by the Gradia design aesthetic.
